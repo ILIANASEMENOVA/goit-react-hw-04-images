@@ -1,5 +1,7 @@
-import React, { Component } from 'react';
+import { useState } from 'react';
 import { toast } from 'react-toastify';
+
+export const Searchbar = () => {};
 
 export default class Searchbar extends Component {
   state = {
